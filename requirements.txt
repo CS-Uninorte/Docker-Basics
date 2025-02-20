@@ -1,0 +1,3 @@
+fastapi[standard]==0.115.8
+pydantic-settings
+pymongo
